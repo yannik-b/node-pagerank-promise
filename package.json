@@ -1,14 +1,14 @@
 {
-  "name": "alexarank-promise",
+  "name": "pagerank-promise",
   "version": "1.0.0",
-  "description": "Promise Layer for module alexarank",
-  "main": "lib/alexarank-promise.js",
+  "description": "Promise Layer for modules alexarank and google-tools",
+  "main": "lib/pagerank-promise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yannik-b/node-alexarank-promise.git"
+    "url": "git+https://github.com/yannik-b/node-pagerank-promise.git"
   },
   "keywords": [
     "Alexa",
@@ -22,9 +22,9 @@
   "author": "Yannik Buerkle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yannik-b/node-alexarank-promise/issues"
+    "url": "https://github.com/yannik-b/node-pagerank-promise/issues"
   },
-  "homepage": "https://github.com/yannik-b/node-alexarank-promise#readme",
+  "homepage": "https://github.com/yannik-b/node-pagerank-promise#readme",
   "dependencies": {
     "alexarank": "^0.2.0",
     "google-tools": "0.0.2"
